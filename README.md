@@ -1,6 +1,6 @@
 # Space_To_Summer_Sea
 
-**## Automated Destriping Pipeline
+## Automated Destriping Pipeline
 
 This project develops an automated image-processing pipeline for reducing striping artifacts and generating high-quality visualizations from raw imagery. The goal is to replace time-intensive manual post-processing with a reproducible, scalable workflow.
 
